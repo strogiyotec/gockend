@@ -1,2 +1,2 @@
 # gockend
-Let's try to build a bakcned using GoLang 
+Let's try to build a backend using GoLang 
